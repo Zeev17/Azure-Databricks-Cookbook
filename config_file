@@ -1,0 +1,9 @@
+Ressource cookbook.app
+client
+"da5ac6d9-c866-4dcc-8c6f-c0b7ea6b139c"
+Tenant
+"80e1eae1-b082-4f96-817b-7c50599c9e6c"
+secret 
+name="secret_set_arm_tempalte"
+value="c8J8Q~olSYmpKjjXmbNy69DE-ynIS8oZo.JecaTg"
+secret="9c7276a0-3a74-4699-88b3-3bbce9c0041f"
